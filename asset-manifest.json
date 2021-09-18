@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/oneredpixel/One-Red-Pixel-Website/static/css/main.a617e044.chunk.css",
-    "main.js": "/oneredpixel/One-Red-Pixel-Website/static/js/main.76e93331.chunk.js",
-    "main.js.map": "/oneredpixel/One-Red-Pixel-Website/static/js/main.76e93331.chunk.js.map",
-    "runtime-main.js": "/oneredpixel/One-Red-Pixel-Website/static/js/runtime-main.94f7101a.js",
-    "runtime-main.js.map": "/oneredpixel/One-Red-Pixel-Website/static/js/runtime-main.94f7101a.js.map",
-    "static/js/2.34ea169b.chunk.js": "/oneredpixel/One-Red-Pixel-Website/static/js/2.34ea169b.chunk.js",
-    "static/js/2.34ea169b.chunk.js.map": "/oneredpixel/One-Red-Pixel-Website/static/js/2.34ea169b.chunk.js.map",
-    "static/js/3.6d2a04fa.chunk.js": "/oneredpixel/One-Red-Pixel-Website/static/js/3.6d2a04fa.chunk.js",
-    "static/js/3.6d2a04fa.chunk.js.map": "/oneredpixel/One-Red-Pixel-Website/static/js/3.6d2a04fa.chunk.js.map",
-    "index.html": "/oneredpixel/One-Red-Pixel-Website/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/oneredpixel/One-Red-Pixel-Website/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.34ea169b.chunk.js.LICENSE.txt": "/oneredpixel/One-Red-Pixel-Website/static/js/2.34ea169b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/oneredpixel/One-Red-Pixel-Website/static/media/logo.6ce24c58.svg"
+    "main.css": "/One-Red-Pixel-Website/static/css/main.a617e044.chunk.css",
+    "main.js": "/One-Red-Pixel-Website/static/js/main.76e93331.chunk.js",
+    "main.js.map": "/One-Red-Pixel-Website/static/js/main.76e93331.chunk.js.map",
+    "runtime-main.js": "/One-Red-Pixel-Website/static/js/runtime-main.078e4ef7.js",
+    "runtime-main.js.map": "/One-Red-Pixel-Website/static/js/runtime-main.078e4ef7.js.map",
+    "static/js/2.34ea169b.chunk.js": "/One-Red-Pixel-Website/static/js/2.34ea169b.chunk.js",
+    "static/js/2.34ea169b.chunk.js.map": "/One-Red-Pixel-Website/static/js/2.34ea169b.chunk.js.map",
+    "static/js/3.6d2a04fa.chunk.js": "/One-Red-Pixel-Website/static/js/3.6d2a04fa.chunk.js",
+    "static/js/3.6d2a04fa.chunk.js.map": "/One-Red-Pixel-Website/static/js/3.6d2a04fa.chunk.js.map",
+    "index.html": "/One-Red-Pixel-Website/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/One-Red-Pixel-Website/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.34ea169b.chunk.js.LICENSE.txt": "/One-Red-Pixel-Website/static/js/2.34ea169b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/One-Red-Pixel-Website/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.94f7101a.js",
+    "static/js/runtime-main.078e4ef7.js",
     "static/js/2.34ea169b.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.76e93331.chunk.js"
