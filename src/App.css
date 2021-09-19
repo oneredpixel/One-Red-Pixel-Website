@@ -1,38 +1,71 @@
-.App {
+body {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500;
+  line-height: 1.5em;
+  font-size: 18px;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+ text-decoration: none; 
+}
+h1 {
+  font-size:48px;
+}
+
+ul.no-bullet {
+  list-style: none;
+}
+
+#wrapper {
+  padding: 50px;
+}
+
+#header {
   text-align: center;
+  background-color: #FFF;
+  color: black;
+  padding: 50px;
+  width: 400px;
+  min-height: 400px;
+  margin: 0 auto 0 auto;
+  border: 10px solid black;
+  padding:40px;
+  margin-bottom: 120px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#trade {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: "center";
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.pixel {
+  flex: 0;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.arrow {
+  flex: 0;
+  font-size: 62px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.punk {
+  flex:0;
+  margin-top:-10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.pixelated {
+  image-rendering: pixelated;
+}
+
+.question {
+  font-weight: bold;
 }
